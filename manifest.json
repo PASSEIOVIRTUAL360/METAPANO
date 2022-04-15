@@ -1,8 +1,4 @@
 {
- "start_url": "index.htm",
- "name": "METAPANO CONCEITO",
- "theme_color": "#000000",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#000000"
+ "name": "METAPANO CONCEITO",
+ "display": "fullscreen",
+ "theme_color": "#000000",
+ "background_color": "#000000",
+ "start_url": "index.htm"
 }
