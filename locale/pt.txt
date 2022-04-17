@@ -10,12 +10,16 @@ LinkBehaviour_0CD05D36_1A8C_256D_41B1_73CE27D0F8D4.source = https://api.whatsapp
 LinkBehaviour_5A44463D_198C_275F_41B0_B5505D0D48AC.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_2550A888_198C_2B25_4182_56088D5526D0.source = https://api.whatsapp.com/send?phone=5548991534224
 LinkBehaviour_B8841A01_A4C8_A211_41B8_E5598BE127EE.source = https://api.whatsapp.com/send?phone=5548991629483
-LinkBehaviour_ABCD678F_95A5_1AE8_41D6_8C8E0A8E2B06.source = https://api.whatsapp.com/send?phone=5553999094653
 LinkBehaviour_2417BB78_198C_EDE5_419B_BF1B1EC4319C.source = https://api.whatsapp.com/send?phone=5553999094653
-LinkBehaviour_D4A95845_95A5_1658_41AD_69FA93E5B74F.source = https://api.whatsapp.com/send?phone=5553999094653
+LinkBehaviour_ABCD678F_95A5_1AE8_41D6_8C8E0A8E2B06.source = https://api.whatsapp.com/send?phone=5553999094653
 LinkBehaviour_0DCEB5AA_1A87_E57A_41B5_D10692CD715B.source = https://api.whatsapp.com/send?phone=5553999094653
+LinkBehaviour_D4A95845_95A5_1658_41AD_69FA93E5B74F.source = https://api.whatsapp.com/send?phone=5553999094653
 LinkBehaviour_A9BD5192_B7C4_7787_41AE_9B4CB5359B42.source = https://robertosales.com.br/
 LinkBehaviour_AF73B340_B7FC_1483_41C0_B5A3556E9B37.source = https://t.me/Rsales
+WebFrame_22CB606A_355F_F43A_41C7_B50311E3CB2D.url = https://thiago360graus.github.io/ESCRITORIO_VIRTUAL_ROBERTO_SALES/
+WebFrame_2C1784EF_355C_9C3A_4178_43751DF4864D.url = https://thiago360graus.github.io/ESCRITORIO_VIRTUAL_ROBERTO_SALES/
+WebFrame_27C8465B_357B_7C1A_41C7_590DA88A7F1F.url = https://thiago360graus.github.io/ESCRITORIO_VIRTUAL_ROBERTO_SALES/
+WebFrame_22FB0603_355D_7FEB_41B3_68F92C0E47C6.url = https://thiago360graus.github.io/ESCRITORIO_VIRTUAL_ROBERTO_SALES/
 WebFrame_8F14657D_ABB5_BF20_41C8_D8C21C058F8C.url = https://thiago360graus.github.io/KACAOEGATO/
 LinkBehaviour_BFEE6A85_AE1C_841D_41A9_4B31D55F8AD4.source = https://www.brasilafora360.com.br
 LinkBehaviour_AEB2AB44_B7CC_1483_41D6_30CF79EB6604.source = https://www.facebook.com/RobertoSalesm/
@@ -36,8 +40,8 @@ PopupWebFrameBehaviour_B8218B16_AB44_FB75_41DC_7CE36E8DB1C9.url = https://www.go
 LinkBehaviour_87A17706_94EF_1BD8_41B4_7C8B8B950879.source = https://www.instagram.com/360wayoflife/
 LinkBehaviour_83BD5276_A7CB_E2F3_41C6_1AEFEB2DCB21.source = https://www.instagram.com/brasilafora360/
 LinkBehaviour_89834E83_ABCC_EDE0_41E2_1EEA245F4200.source = https://www.instagram.com/csm360digital/
-LinkBehaviour_AF7B90B6_B7CC_358F_41C9_164144F4CC2C.source = https://www.instagram.com/robertosalesoficial/
 LinkBehaviour_AC6812C6_B7C4_F58C_41D5_26DB8AA5135C.source = https://www.instagram.com/robertosalesoficial/
+LinkBehaviour_AF7B90B6_B7CC_358F_41C9_164144F4CC2C.source = https://www.instagram.com/robertosalesoficial/
 LinkBehaviour_B8333344_A4CB_A217_41C4_2B47C08E5082.source = https://www.instagram.com/sight360graus/
 LinkBehaviour_AF03D17A_B7CC_7484_41E6_471BDA2D9A0A.source = https://www.linkedin.com/in/robertosa
 LinkBehaviour_AED26FA9_B7CC_0B84_41A8_1C261E0236A1.source = https://www.tiktok.com/@robertosalesoficial
@@ -302,56 +306,66 @@ video_C6D5BD98_B21B_7C32_41C2_F806C233EA2E.label = y2mate.com - Aprenda a fazer 
 video_BE0C7033_A8D6_495E_41CA_6055E732EA91.label = y2mate.com - Brasil Afora 360 Tour Virtual_360p~1
 
 ### Video
-videolevel_251EBEB0_337B_0D3F_41A2_299AC910FED3.posterURL = media/video_02D8DB0E_15CC_D839_41B0_B8548EC39B2A_poster_pt.jpg
-videolevel_251EBEB0_337B_0D3F_41A2_299AC910FED3.url = media/video_02D8DB0E_15CC_D839_41B0_B8548EC39B2A_pt.mp4
-videolevel_252F5CD7_337B_0D61_41B5_328D324231B5.posterURL = media/video_040ECC38_100B_9006_41A0_DADF79D4A18E_poster_pt.jpg
-videolevel_252F5CD7_337B_0D61_41B5_328D324231B5.url = media/video_040ECC38_100B_9006_41A0_DADF79D4A18E_pt.mp4
-videolevel_25108DF8_337B_0F2F_41C8_024DDBAEF542.posterURL = media/video_0416FA56_1445_B828_41B2_7BA35A66085A_poster_pt.jpg
-videolevel_25108DF8_337B_0F2F_41C8_024DDBAEF542.url = media/video_0416FA56_1445_B828_41B2_7BA35A66085A_pt.mp4
-videolevel_25139E4F_337B_0D61_41C9_9A7A9579D837.posterURL = media/video_0F58088D_15CC_D83B_418C_3278DCD04F00_poster_pt.jpg
-videolevel_25139E4F_337B_0D61_41C9_9A7A9579D837.url = media/video_0F58088D_15CC_D83B_418C_3278DCD04F00_pt.mp4
-videolevel_2515CDA5_337B_0F21_4192_FEE97F9B9901.posterURL = media/video_31861F72_1019_900A_41AA_5CF011577ABF_poster_pt.jpg
-videolevel_2515CDA5_337B_0F21_4192_FEE97F9B9901.url = media/video_31861F72_1019_900A_41AA_5CF011577ABF_pt.mp4
-videolevel_252A2D46_337B_0F63_4195_20CBD58BA5DE.posterURL = media/video_31BF28B8_1019_F006_41AA_CD0866381A70_poster_pt.jpg
-videolevel_252A2D46_337B_0F63_4195_20CBD58BA5DE.url = media/video_31BF28B8_1019_F006_41AA_CD0866381A70_pt.mp4
-videolevel_27B410B9_337B_7521_41BA_20E57871CA0B.posterURL = media/video_48D4A563_2E26_DADD_41C5_107A609186A2_poster_pt.jpg
-videolevel_27B410B9_337B_7521_41BA_20E57871CA0B.url = media/video_48D4A563_2E26_DADD_41C5_107A609186A2_pt.mp4
-videolevel_27B41066_337B_7523_41C1_95649A501C47.posterURL = media/video_49D39EC3_2A46_9ECD_41C2_C5A013291451_poster_pt.jpg
-videolevel_27B41066_337B_7523_41C1_95649A501C47.url = media/video_49D39EC3_2A46_9ECD_41C2_C5A013291451_pt.mp4
-videolevel_27B4210C_337B_74E7_41BD_548CA9DE528B.posterURL = media/video_5E060C90_2E22_AA7B_41B6_E7F9214D8A8B_poster_pt.jpg
-videolevel_27B4210C_337B_74E7_41BD_548CA9DE528B.url = media/video_5E060C90_2E22_AA7B_41B6_E7F9214D8A8B_pt.mp4
-videolevel_25193F21_337B_0B21_41B0_17CA3DD534E2.posterURL = media/video_62BD9766_2A4D_6FD4_414A_30199FC3823C_poster_pt.jpg
-videolevel_25193F21_337B_0B21_41B0_17CA3DD534E2.url = media/video_62BD9766_2A4D_6FD4_414A_30199FC3823C_pt.mp4
-videolevel_2524DB62_337B_0B23_41BE_A27DB7FB712F.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
-videolevel_2524DB62_337B_0B23_41BE_A27DB7FB712F.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
-videolevel_27CB2003_337B_74E1_41C0_76B3D75BE271.posterURL = media/video_6762E4BF_2A45_62B4_419D_45AA78CF0057_poster_pt.jpg
-videolevel_27CB2003_337B_74E1_41C0_76B3D75BE271.url = media/video_6762E4BF_2A45_62B4_419D_45AA78CF0057_pt.mp4
-videolevel_252C2C5C_337B_0D67_41B1_15FE5248DCBA.posterURL = media/video_AFB5FC20_B7C4_0C84_41E3_68D3F58484CA_poster_pt.jpg
-videolevel_252C2C5C_337B_0D67_41B1_15FE5248DCBA.url = media/video_AFB5FC20_B7C4_0C84_41E3_68D3F58484CA_pt.mp4
-videolevel_2531A8C8_337B_156F_41A8_4267D57E25F9.posterURL = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_poster_pt.jpg
-videolevel_2531A8C8_337B_156F_41A8_4267D57E25F9.url = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_pt.mp4
-videolevel_2533E990_337B_17FF_41BF_B5AB29E732E0.posterURL = media/video_C01D3B1D_B205_8432_41C3_B399EBA26390_poster_pt.jpg
-videolevel_2533E990_337B_17FF_41BF_B5AB29E732E0.url = media/video_C01D3B1D_B205_8432_41C3_B399EBA26390_pt.mp4
-videolevel_253D8A59_337B_156E_41A1_6084D62754B8.posterURL = media/video_C032B021_B205_8412_41CC_B046B317D79B_poster_pt.jpg
-videolevel_253D8A59_337B_156E_41A1_6084D62754B8.url = media/video_C032B021_B205_8412_41CC_B046B317D79B_pt.mp4
-videolevel_253C89F4_337B_1726_41B6_382BFA7EAB68.posterURL = media/video_C032DDB6_B205_9C7E_41E0_DA578BC207AD_poster_pt.jpg
-videolevel_253C89F4_337B_1726_41B6_382BFA7EAB68.url = media/video_C032DDB6_B205_9C7E_41E0_DA578BC207AD_pt.mp4
-videolevel_253E6ABC_337B_1526_41A1_AB03C0B95A54.posterURL = media/video_C032E298_B205_8432_41D5_71999695414A_poster_pt.jpg
-videolevel_253E6ABC_337B_1526_41A1_AB03C0B95A54.url = media/video_C032E298_B205_8432_41D5_71999695414A_pt.mp4
-videolevel_25390B0F_337B_14E1_41C9_8913FC7D3BF3.posterURL = media/video_C6D5BD98_B21B_7C32_41C2_F806C233EA2E_poster_pt.jpg
-videolevel_25390B0F_337B_14E1_41C9_8913FC7D3BF3.url = media/video_C6D5BD98_B21B_7C32_41C2_F806C233EA2E_pt.mp4
-videolevel_2531092D_337B_1721_41C0_468C9005FB3E.posterURL = media/video_CACA0920_B205_8412_41D8_8C6280380BA8_poster_pt.jpg
-videolevel_2531092D_337B_1721_41C0_468C9005FB3E.url = media/video_CACA0920_B205_8412_41D8_8C6280380BA8_pt.mp4
-videolevel_2527BBB6_337B_0B23_41B6_BE231F67D930.posterURL = media/video_D2E990A5_B20C_8412_41A5_1BCDB89FF4D0_poster_pt.jpg
-videolevel_2527BBB6_337B_0B23_41B6_BE231F67D930.url = media/video_D2E990A5_B20C_8412_41A5_1BCDB89FF4D0_pt.mp4
-videolevel_25210C09_337B_0CE1_41BA_A9722FEB2276.posterURL = media/video_D6688078_B20C_84F2_41A5_D261ADF2EED5_poster_pt.jpg
-videolevel_25210C09_337B_0CE1_41BA_A9722FEB2276.url = media/video_D6688078_B20C_84F2_41A5_D261ADF2EED5_pt.mp4
+videolevel_2960BA81_3557_B4E6_41C8_4D6179032C1C.posterURL = media/video_02D8DB0E_15CC_D839_41B0_B8548EC39B2A_poster_pt.jpg
+videolevel_2960BA81_3557_B4E6_41C8_4D6179032C1C.url = media/video_02D8DB0E_15CC_D839_41B0_B8548EC39B2A_pt.mp4
+videolevel_296F28C5_3557_B46F_41BF_40DF233CF2C5.posterURL = media/video_040ECC38_100B_9006_41A0_DADF79D4A18E_poster_pt.jpg
+videolevel_296F28C5_3557_B46F_41BF_40DF233CF2C5.url = media/video_040ECC38_100B_9006_41A0_DADF79D4A18E_pt.mp4
+videolevel_296689CE_3557_B47A_4179_2AB37ECC2D3E.posterURL = media/video_0416FA56_1445_B828_41B2_7BA35A66085A_poster_pt.jpg
+videolevel_296689CE_3557_B47A_4179_2AB37ECC2D3E.url = media/video_0416FA56_1445_B828_41B2_7BA35A66085A_pt.mp4
+videolevel_29651A22_3557_B425_41C0_264E8B1F85D3.posterURL = media/video_0F58088D_15CC_D83B_418C_3278DCD04F00_poster_pt.jpg
+videolevel_29651A22_3557_B425_41C0_264E8B1F85D3.url = media/video_0F58088D_15CC_D83B_418C_3278DCD04F00_pt.mp4
+videolevel_296BC96B_3557_B43A_41A0_8162E58057F1.posterURL = media/video_31861F72_1019_900A_41AA_5CF011577ABF_poster_pt.jpg
+videolevel_296BC96B_3557_B43A_41A0_8162E58057F1.url = media/video_31861F72_1019_900A_41AA_5CF011577ABF_pt.mp4
+videolevel_296D5917_3557_B5EA_41A0_D64E0A3D9FEB.posterURL = media/video_31BF28B8_1019_F006_41AA_CD0866381A70_poster_pt.jpg
+videolevel_296D5917_3557_B5EA_41A0_D64E0A3D9FEB.url = media/video_31BF28B8_1019_F006_41AA_CD0866381A70_pt.mp4
+videolevel_29576C28_3557_8C25_41C2_C04924DD4AB3.posterURL = media/video_48D4A563_2E26_DADD_41C5_107A609186A2_poster_pt.jpg
+videolevel_29576C28_3557_8C25_41C2_C04924DD4AB3.url = media/video_48D4A563_2E26_DADD_41C5_107A609186A2_pt.mp4
+videolevel_2958BBC4_3557_B46E_41A9_3EFC63E86410.posterURL = media/video_49D39EC3_2A46_9ECD_41C2_C5A013291451_poster_pt.jpg
+videolevel_2958BBC4_3557_B46E_41A9_3EFC63E86410.url = media/video_49D39EC3_2A46_9ECD_41C2_C5A013291451_pt.mp4
+videolevel_29520C8A_3557_8CFA_41C3_5CB817F21F87.posterURL = media/video_5E060C90_2E22_AA7B_41B6_E7F9214D8A8B_poster_pt.jpg
+videolevel_29520C8A_3557_8CFA_41C3_5CB817F21F87.url = media/video_5E060C90_2E22_AA7B_41B6_E7F9214D8A8B_pt.mp4
+videolevel_295F4AF7_3557_B42B_41BB_E847C2FCE090.posterURL = media/video_62BD9766_2A4D_6FD4_414A_30199FC3823C_poster_pt.jpg
+videolevel_295F4AF7_3557_B42B_41BB_E847C2FCE090.url = media/video_62BD9766_2A4D_6FD4_414A_30199FC3823C_pt.mp4
+videolevel_29728734_3557_BC2E_41B4_DDF845F74255.posterURL = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_poster_pt.jpg
+videolevel_29728734_3557_BC2E_41B4_DDF845F74255.url = media/video_63F3900E_74AD_172A_41C8_37C5C55FDC2A_pt.mp4
+videolevel_295D9B61_3557_B426_41B6_4FE98C68FF02.posterURL = media/video_6762E4BF_2A45_62B4_419D_45AA78CF0057_poster_pt.jpg
+videolevel_295D9B61_3557_B426_41B6_4FE98C68FF02.url = media/video_6762E4BF_2A45_62B4_419D_45AA78CF0057_pt.mp4
+videolevel_2970484F_3557_B47A_41B3_3B1EB7D4D91F.posterURL = media/video_AFB5FC20_B7C4_0C84_41E3_68D3F58484CA_poster_pt.jpg
+videolevel_2970484F_3557_B47A_41B3_3B1EB7D4D91F.url = media/video_AFB5FC20_B7C4_0C84_41E3_68D3F58484CA_pt.mp4
+videolevel_297694CB_3557_BC7B_417C_D3774E7E1F56.posterURL = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_poster_pt.jpg
+videolevel_297694CB_3557_BC7B_417C_D3774E7E1F56.url = media/video_BE0C7033_A8D6_495E_41CA_6055E732EA91_pt.mp4
+videolevel_2977F572_3557_BC2A_41A6_F7855DF57A9C.posterURL = media/video_C01D3B1D_B205_8432_41C3_B399EBA26390_poster_pt.jpg
+videolevel_2977F572_3557_BC2A_41A6_F7855DF57A9C.url = media/video_C01D3B1D_B205_8432_41C3_B399EBA26390_pt.mp4
+videolevel_2974C619_3557_BFE6_41BA_A8FD50E16F46.posterURL = media/video_C032B021_B205_8412_41CC_B046B317D79B_poster_pt.jpg
+videolevel_2974C619_3557_BFE6_41BA_A8FD50E16F46.url = media/video_C032B021_B205_8412_41CC_B046B317D79B_pt.mp4
+videolevel_297465C5_3557_BC6E_41C1_02DAEF35B5D2.posterURL = media/video_C032DDB6_B205_9C7E_41E0_DA578BC207AD_poster_pt.jpg
+videolevel_297465C5_3557_BC6E_41C1_02DAEF35B5D2.url = media/video_C032DDB6_B205_9C7E_41E0_DA578BC207AD_pt.mp4
+videolevel_2975A66C_3557_BC3E_41C2_AE02A6C8B3D2.posterURL = media/video_C032E298_B205_8432_41D5_71999695414A_poster_pt.jpg
+videolevel_2975A66C_3557_BC3E_41C2_AE02A6C8B3D2.url = media/video_C032E298_B205_8432_41D5_71999695414A_pt.mp4
+videolevel_2975D6D0_3557_BC66_4139_52D4E5C5A340.posterURL = media/video_C6D5BD98_B21B_7C32_41C2_F806C233EA2E_poster_pt.jpg
+videolevel_2975D6D0_3557_BC66_4139_52D4E5C5A340.url = media/video_C6D5BD98_B21B_7C32_41C2_F806C233EA2E_pt.mp4
+videolevel_2977151F_3557_BC1B_41C4_D81AAFDAB7FF.posterURL = media/video_CACA0920_B205_8412_41D8_8C6280380BA8_poster_pt.jpg
+videolevel_2977151F_3557_BC1B_41C4_D81AAFDAB7FF.url = media/video_CACA0920_B205_8412_41D8_8C6280380BA8_pt.mp4
+videolevel_29736798_3557_BCE6_41C1_60B5E5B5E564.posterURL = media/video_D2E990A5_B20C_8412_41A5_1BCDB89FF4D0_poster_pt.jpg
+videolevel_29736798_3557_BCE6_41C1_60B5E5B5E564.url = media/video_D2E990A5_B20C_8412_41A5_1BCDB89FF4D0_pt.mp4
+videolevel_2973D7FC_3557_BC1E_41A7_A797B0FF6FAB.posterURL = media/video_D6688078_B20C_84F2_41A5_D261ADF2EED5_poster_pt.jpg
+videolevel_2973D7FC_3557_BC1E_41A7_A797B0FF6FAB.url = media/video_D6688078_B20C_84F2_41A5_D261ADF2EED5_pt.mp4
 
 ## Popup
 
 ### Body
+htmlText_2C11C4EF_355C_9C3A_41BB_CCE3BDE85516.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_274F3198_357C_B4E6_41C1_7460857C67BA.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_22D5206A_355F_F43A_41C7_60B0B741D787.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_22F90602_355D_7FE5_41CA_984186269322.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 htmlText_88CEDECF_A448_6211_41D3_7C0865011266.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 htmlText_8EAC199C_ABB4_F7E0_41D6_F8705EF71A0C.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_22CBC06B_355F_F43A_4187_675C2F93A64D.title = CLIQUE AQUI PARA VOLTAR >>>    
+window_274FE198_357C_B4E6_41A4_419C53BAADEC.title = CLIQUE AQUI PARA VOLTAR >>>    
+window_22FAC604_355D_7FED_418A_5FEEBA7EB8B2.title = CLIQUE AQUI PARA VOLTAR >>>    
+window_2C1714F0_355C_9C26_41C1_62E1A6511D15.title = CLIQUE AQUI PARA VOLTAR >>>    
 
 ## Skin
 
